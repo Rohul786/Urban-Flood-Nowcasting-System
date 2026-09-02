@@ -1,0 +1,863 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R01",
+        "road_name": "Central Avenue (CR Avenue)",
+        "from_node": "Shyambazar",
+        "to_node": "Esplanade",
+        "elevation": 3.8,
+        "drainage_condition": "Poor",
+        "length_km": 4.2,
+        "speed_limit_kmh": 40
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.37,
+            22.598
+          ],
+          [
+            88.365,
+            22.58
+          ],
+          [
+            88.358,
+            22.565
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R02",
+        "road_name": "Park Street Corridor",
+        "from_node": "Park Street Metro",
+        "to_node": "Park Circus",
+        "elevation": 4.5,
+        "drainage_condition": "Fair",
+        "length_km": 2.4,
+        "speed_limit_kmh": 40
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.35,
+            22.553
+          ],
+          [
+            88.357,
+            22.551
+          ],
+          [
+            88.368,
+            22.544
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R03A",
+        "road_name": "Shyambazar-Ultadanga Connector",
+        "from_node": "Shyambazar",
+        "to_node": "Ultadanga",
+        "elevation": 6.2,
+        "drainage_condition": "Good",
+        "length_km": 2.2,
+        "speed_limit_kmh": 40
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.37,
+            22.598
+          ],
+          [
+            88.384,
+            22.593
+          ],
+          [
+            88.398,
+            22.588
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R03B",
+        "road_name": "EM Bypass (North-South Express)",
+        "from_node": "Ultadanga",
+        "to_node": "Ruby Crossing",
+        "elevation": 6.8,
+        "drainage_condition": "Good",
+        "length_km": 8.5,
+        "speed_limit_kmh": 40
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.398,
+            22.588
+          ],
+          [
+            88.401,
+            22.555
+          ],
+          [
+            88.399,
+            22.513
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R03C",
+        "road_name": "EM Bypass South Extension",
+        "from_node": "Ruby Crossing",
+        "to_node": "Jadavpur PS",
+        "elevation": 6.4,
+        "drainage_condition": "Good",
+        "length_km": 3.4,
+        "speed_limit_kmh": 40
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.399,
+            22.513
+          ],
+          [
+            88.385,
+            22.505
+          ],
+          [
+            88.369,
+            22.498
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R04",
+        "road_name": "AJC Bose Road Arterial",
+        "from_node": "Exide Crossing",
+        "to_node": "Moulali",
+        "elevation": 5.1,
+        "drainage_condition": "Fair",
+        "length_km": 3.8,
+        "speed_limit_kmh": 40
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.347,
+            22.54
+          ],
+          [
+            88.364,
+            22.546
+          ],
+          [
+            88.369,
+            22.56
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R05",
+        "road_name": "Strand Road (Riverfront Basin)",
+        "from_node": "Howrah Approach",
+        "to_node": "Prinsep Ghat",
+        "elevation": 3.5,
+        "drainage_condition": "Choked",
+        "length_km": 3.9,
+        "speed_limit_kmh": 40
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.346,
+            22.582
+          ],
+          [
+            88.342,
+            22.568
+          ],
+          [
+            88.337,
+            22.552
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R06",
+        "road_name": "Diamond Harbour Road (Behala)",
+        "from_node": "Taratala Crossing",
+        "to_node": "Behala Chowrasta",
+        "elevation": 3.3,
+        "drainage_condition": "Choked",
+        "length_km": 3.1,
+        "speed_limit_kmh": 40
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.318,
+            22.512
+          ],
+          [
+            88.318,
+            22.489
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R07",
+        "road_name": "Gariahat Road",
+        "from_node": "Ballygunge Phari",
+        "to_node": "Gariahat Junction",
+        "elevation": 5.6,
+        "drainage_condition": "Good",
+        "length_km": 1.5,
+        "speed_limit_kmh": 40
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.366,
+            22.534
+          ],
+          [
+            88.368,
+            22.524
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R08",
+        "road_name": "VIP Road (Airport Expressway)",
+        "from_node": "Ultadanga",
+        "to_node": "Airport Gate 1",
+        "elevation": 6.8,
+        "drainage_condition": "Good",
+        "length_km": 7.4,
+        "speed_limit_kmh": 40
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.398,
+            22.588
+          ],
+          [
+            88.42,
+            22.61
+          ],
+          [
+            88.44,
+            22.645
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R09",
+        "road_name": "Red Road (Maidan Bypass)",
+        "from_node": "Esplanade",
+        "to_node": "PTS Race Course",
+        "elevation": 6.2,
+        "drainage_condition": "Good",
+        "length_km": 2.1,
+        "speed_limit_kmh": 40
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.348,
+            22.562
+          ],
+          [
+            88.342,
+            22.545
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R10",
+        "road_name": "Rashbehari Avenue",
+        "from_node": "Chetla Bridge",
+        "to_node": "Gariahat Junction",
+        "elevation": 4.8,
+        "drainage_condition": "Fair",
+        "length_km": 2.9,
+        "speed_limit_kmh": 40
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.342,
+            22.518
+          ],
+          [
+            88.355,
+            22.52
+          ],
+          [
+            88.368,
+            22.524
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R11",
+        "road_name": "Amherst Street Corridor",
+        "from_node": "Shyambazar",
+        "to_node": "Sealdah Station",
+        "elevation": 3.2,
+        "drainage_condition": "Choked",
+        "length_km": 3.6,
+        "speed_limit_kmh": 40
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.37,
+            22.598
+          ],
+          [
+            88.368,
+            22.578
+          ],
+          [
+            88.371,
+            22.565
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R12",
+        "road_name": "Sector V Main Ring (Salt Lake)",
+        "from_node": "Ultadanga",
+        "to_node": "Technopolis",
+        "elevation": 6.0,
+        "drainage_condition": "Good",
+        "length_km": 4.5,
+        "speed_limit_kmh": 40
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.398,
+            22.588
+          ],
+          [
+            88.432,
+            22.576
+          ],
+          [
+            88.441,
+            22.578
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R13",
+        "road_name": "Prince Anwar Shah Road",
+        "from_node": "Tollygunge Phari",
+        "to_node": "Jadavpur PS",
+        "elevation": 5.2,
+        "drainage_condition": "Fair",
+        "length_km": 2.7,
+        "speed_limit_kmh": 40
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.345,
+            22.502
+          ],
+          [
+            88.36,
+            22.5
+          ],
+          [
+            88.369,
+            22.498
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R14",
+        "road_name": "New Town Major Arterial",
+        "from_node": "Technopolis",
+        "to_node": "City Centre 2",
+        "elevation": 6.7,
+        "drainage_condition": "Good",
+        "length_km": 5.5,
+        "speed_limit_kmh": 40
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.441,
+            22.578
+          ],
+          [
+            88.468,
+            22.592
+          ],
+          [
+            88.475,
+            22.615
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R15",
+        "road_name": "Hyde Road Industrial Connector",
+        "from_node": "Taratala Crossing",
+        "to_node": "Prinsep Ghat",
+        "elevation": 3.4,
+        "drainage_condition": "Choked",
+        "length_km": 4.8,
+        "speed_limit_kmh": 40
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.318,
+            22.512
+          ],
+          [
+            88.337,
+            22.552
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R16",
+        "road_name": "Shakespeare Sarani",
+        "from_node": "Exide Crossing",
+        "to_node": "Park Circus",
+        "elevation": 5.0,
+        "drainage_condition": "Fair",
+        "length_km": 2.0,
+        "speed_limit_kmh": 40
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.349,
+            22.545
+          ],
+          [
+            88.368,
+            22.544
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R17",
+        "road_name": "Southern Avenue (Lake Side)",
+        "from_node": "Golpark",
+        "to_node": "Kalighat Metro",
+        "elevation": 5.4,
+        "drainage_condition": "Good",
+        "length_km": 1.6,
+        "speed_limit_kmh": 40
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.365,
+            22.512
+          ],
+          [
+            88.35,
+            22.514
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R18",
+        "road_name": "Beliaghata Main Road",
+        "from_node": "Sealdah Station",
+        "to_node": "Ultadanga",
+        "elevation": 4.1,
+        "drainage_condition": "Poor",
+        "length_km": 3.2,
+        "speed_limit_kmh": 40
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.371,
+            22.565
+          ],
+          [
+            88.398,
+            22.588
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R19",
+        "road_name": "Chowringhee Road",
+        "from_node": "Esplanade",
+        "to_node": "Park Street Metro",
+        "elevation": 5.5,
+        "drainage_condition": "Good",
+        "length_km": 1.4,
+        "speed_limit_kmh": 40
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.358,
+            22.565
+          ],
+          [
+            88.35,
+            22.553
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R20",
+        "road_name": "Jawaharlal Nehru Road",
+        "from_node": "Park Street Metro",
+        "to_node": "Exide Crossing",
+        "elevation": 5.3,
+        "drainage_condition": "Good",
+        "length_km": 1.6,
+        "speed_limit_kmh": 40
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.35,
+            22.553
+          ],
+          [
+            88.347,
+            22.54
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R21",
+        "road_name": "Syed Amir Ali Avenue",
+        "from_node": "Park Circus",
+        "to_node": "Ballygunge Phari",
+        "elevation": 5.4,
+        "drainage_condition": "Good",
+        "length_km": 1.3,
+        "speed_limit_kmh": 40
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.368,
+            22.544
+          ],
+          [
+            88.366,
+            22.534
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R22",
+        "road_name": "Ruby-Gariahat Connector",
+        "from_node": "Ruby Crossing",
+        "to_node": "Gariahat Junction",
+        "elevation": 5.8,
+        "drainage_condition": "Good",
+        "length_km": 3.5,
+        "speed_limit_kmh": 40
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.399,
+            22.513
+          ],
+          [
+            88.368,
+            22.524
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R23",
+        "road_name": "Jadavpur-Golpark Road",
+        "from_node": "Jadavpur PS",
+        "to_node": "Golpark",
+        "elevation": 5.6,
+        "drainage_condition": "Good",
+        "length_km": 1.7,
+        "speed_limit_kmh": 40
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.369,
+            22.498
+          ],
+          [
+            88.365,
+            22.512
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R24",
+        "road_name": "Golpark-Gariahat Link",
+        "from_node": "Golpark",
+        "to_node": "Gariahat Junction",
+        "elevation": 5.5,
+        "drainage_condition": "Good",
+        "length_km": 1.2,
+        "speed_limit_kmh": 40
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.365,
+            22.512
+          ],
+          [
+            88.368,
+            22.524
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R25",
+        "road_name": "Alipore-Chetla Corridor",
+        "from_node": "Exide Crossing",
+        "to_node": "Chetla Bridge",
+        "elevation": 6.4,
+        "drainage_condition": "Good",
+        "length_km": 2.6,
+        "speed_limit_kmh": 40
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.347,
+            22.54
+          ],
+          [
+            88.342,
+            22.518
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R26",
+        "road_name": "Chetla-Taratala Link",
+        "from_node": "Chetla Bridge",
+        "to_node": "Taratala Crossing",
+        "elevation": 4.5,
+        "drainage_condition": "Fair",
+        "length_km": 2.7,
+        "speed_limit_kmh": 40
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.342,
+            22.518
+          ],
+          [
+            88.318,
+            22.512
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R27",
+        "road_name": "Kalighat-Chetla Bridge Link",
+        "from_node": "Kalighat Metro",
+        "to_node": "Chetla Bridge",
+        "elevation": 4.6,
+        "drainage_condition": "Fair",
+        "length_km": 1.1,
+        "speed_limit_kmh": 40
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.35,
+            22.514
+          ],
+          [
+            88.342,
+            22.518
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R28",
+        "road_name": "Sealdah-Moulali Link",
+        "from_node": "Sealdah Station",
+        "to_node": "Moulali",
+        "elevation": 4.2,
+        "drainage_condition": "Poor",
+        "length_km": 0.8,
+        "speed_limit_kmh": 40
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.371,
+            22.565
+          ],
+          [
+            88.369,
+            22.56
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R29",
+        "road_name": "Esplanade-Howrah Bridge",
+        "from_node": "Esplanade",
+        "to_node": "Howrah Approach",
+        "elevation": 4.5,
+        "drainage_condition": "Fair",
+        "length_km": 2.3,
+        "speed_limit_kmh": 40
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.358,
+            22.565
+          ],
+          [
+            88.346,
+            22.582
+          ]
+        ]
+      }
+    }
+  ]
+}

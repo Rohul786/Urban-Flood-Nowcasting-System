@@ -1,0 +1,170 @@
+/* ==========================================================================
+   FloodGuard AI - Command Center Dark Theme Styling
+   ========================================================================== */
+
+/* Main background & root variables */
+:root {
+    --bg-primary: #0b132b;
+    --bg-secondary: #1c2541;
+    --bg-card: #1e293b;
+    --bg-card-hover: #273549;
+    --accent-cyan: #00f0ff;
+    --accent-blue: #3a86ff;
+    --accent-teal: #06d6a0;
+    --accent-warning: #ffbe0b;
+    --accent-danger: #ff0054;
+    --accent-critical: #ef233c;
+    --text-primary: #f8fafc;
+    --text-muted: #94a3b8;
+    --border-color: #334155;
+    --border-glow: rgba(0, 240, 255, 0.25);
+}
+
+/* Metric card container */
+.kpi-container {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+    flex-wrap: wrap;
+}
+
+.kpi-card {
+    background: linear-gradient(135deg, rgba(30, 41, 59, 0.9) 0%, rgba(15, 23, 42, 0.95) 100%);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    padding: 1.25rem 1.5rem;
+    flex: 1;
+    min-width: 200px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.35);
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+}
+
+.kpi-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 4px;
+    height: 100%;
+    background: var(--accent-blue);
+    transition: width 0.3s ease;
+}
+
+.kpi-card:hover {
+    transform: translateY(-2px);
+    border-color: var(--accent-cyan);
+    box-shadow: 0 8px 25px rgba(0, 240, 255, 0.15);
+}
+
+.kpi-card.kpi-blue::before { background: var(--accent-blue); }
+.kpi-card.kpi-cyan::before { background: var(--accent-cyan); }
+.kpi-card.kpi-warning::before { background: var(--accent-warning); }
+.kpi-card.kpi-danger::before { background: var(--accent-danger); }
+.kpi-card.kpi-teal::before { background: var(--accent-teal); }
+
+.kpi-title {
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--text-muted);
+    margin-bottom: 0.35rem;
+    font-weight: 600;
+}
+
+.kpi-value {
+    font-size: 1.85rem;
+    font-weight: 700;
+    color: var(--text-primary);
+    line-height: 1.2;
+}
+
+.kpi-sub {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    margin-top: 0.3rem;
+}
+
+/* Alert badge styles */
+.badge {
+    display: inline-block;
+    padding: 0.25rem 0.6rem;
+    border-radius: 9999px;
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.badge-low {
+    background-color: rgba(6, 214, 160, 0.15);
+    color: #06d6a0;
+    border: 1px solid rgba(6, 214, 160, 0.4);
+}
+
+.badge-moderate {
+    background-color: rgba(255, 190, 11, 0.15);
+    color: #ffbe0b;
+    border: 1px solid rgba(255, 190, 11, 0.4);
+}
+
+.badge-high {
+    background-color: rgba(251, 86, 7, 0.15);
+    color: #fb5607;
+    border: 1px solid rgba(251, 86, 7, 0.4);
+}
+
+.badge-severe {
+    background-color: rgba(239, 35, 60, 0.2);
+    color: #ef233c;
+    border: 1px solid rgba(239, 35, 60, 0.5);
+    animation: pulse-danger 2s infinite;
+}
+
+@keyframes pulse-danger {
+    0% { box-shadow: 0 0 0 0 rgba(239, 35, 60, 0.4); }
+    70% { box-shadow: 0 0 0 8px rgba(239, 35, 60, 0); }
+    100% { box-shadow: 0 0 0 0 rgba(239, 35, 60, 0); }
+}
+
+/* Custom Alert Banner */
+.emergency-banner {
+    background: linear-gradient(90deg, rgba(239, 35, 60, 0.15) 0%, rgba(30, 41, 59, 0.8) 100%);
+    border-left: 5px solid #ef233c;
+    border-radius: 8px;
+    padding: 1rem 1.25rem;
+    margin-bottom: 1.5rem;
+    color: #f8fafc;
+    box-shadow: 0 4px 15px rgba(239, 35, 60, 0.15);
+}
+
+.emergency-banner-title {
+    font-weight: 700;
+    font-size: 1.1rem;
+    color: #ef233c;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 0.25rem;
+}
+
+/* Section Header */
+.section-header {
+    border-bottom: 2px solid #334155;
+    padding-bottom: 0.5rem;
+    margin-top: 1rem;
+    margin-bottom: 1.25rem;
+    font-weight: 700;
+    color: #f1f5f9;
+}
+
+/* Glass panel */
+.glass-panel {
+    background: rgba(30, 41, 59, 0.7);
+    backdrop-filter: blur(8px);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 12px;
+    padding: 1.25rem;
+    margin-bottom: 1rem;
+}

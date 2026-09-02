@@ -1,0 +1,365 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "H01",
+        "name": "SSKM Multi-Speciality Hospital",
+        "type": "HOSPITAL",
+        "elevation": 6.5,
+        "drainage_capacity": 28.0,
+        "capacity": 1800
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3435,
+          22.5395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "H02",
+        "name": "Calcutta Medical College & Hospital",
+        "type": "HOSPITAL",
+        "elevation": 4.0,
+        "drainage_capacity": 14.0,
+        "capacity": 1200
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.362,
+          22.5732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "H03",
+        "name": "AMRI Hospital Dhakuria",
+        "type": "HOSPITAL",
+        "elevation": 5.4,
+        "drainage_capacity": 24.0,
+        "capacity": 350
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3645,
+          22.512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "H04",
+        "name": "Ruby General Hospital (EM Bypass)",
+        "type": "HOSPITAL",
+        "elevation": 4.8,
+        "drainage_capacity": 22.0,
+        "capacity": 400
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3995,
+          22.5135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "H05",
+        "name": "Apollo Gleneagles Hospital",
+        "type": "HOSPITAL",
+        "elevation": 5.9,
+        "drainage_capacity": 30.0,
+        "capacity": 550
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.404,
+          22.5715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "H06",
+        "name": "Fortis Hospital Anandapur",
+        "type": "HOSPITAL",
+        "elevation": 4.5,
+        "drainage_capacity": 18.0,
+        "capacity": 300
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.402,
+          22.524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "F01",
+        "name": "Central Fire HQ (Free School St)",
+        "type": "FIRE_STATION",
+        "elevation": 5.0,
+        "drainage_capacity": 20.0,
+        "capacity": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3525,
+          22.556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "F02",
+        "name": "Alipore Fire Station",
+        "type": "FIRE_STATION",
+        "elevation": 6.6,
+        "drainage_capacity": 32.0,
+        "capacity": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.334,
+          22.531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "F03",
+        "name": "Behala Fire Station",
+        "type": "FIRE_STATION",
+        "elevation": 3.5,
+        "drainage_capacity": 11.0,
+        "capacity": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.319,
+          22.492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "F04",
+        "name": "Salt Lake Sector V Fire Station",
+        "type": "FIRE_STATION",
+        "elevation": 6.1,
+        "drainage_capacity": 30.0,
+        "capacity": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.435,
+          22.578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "P01",
+        "name": "Kolkata Police HQ (Lalbazar)",
+        "type": "POLICE_HQ",
+        "elevation": 5.4,
+        "drainage_capacity": 25.0,
+        "capacity": 450
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.352,
+          22.571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "P02",
+        "name": "Park Street Police Station",
+        "type": "POLICE_STATION",
+        "elevation": 4.6,
+        "drainage_capacity": 19.0,
+        "capacity": 120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.356,
+          22.5515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "P03",
+        "name": "Jadavpur Police Station",
+        "type": "POLICE_STATION",
+        "elevation": 5.6,
+        "drainage_capacity": 22.0,
+        "capacity": 110
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3685,
+          22.4985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "S01",
+        "name": "Netaji Indoor Stadium Relief Center",
+        "type": "SHELTER",
+        "elevation": 6.2,
+        "drainage_capacity": 28.0,
+        "capacity": 3500
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.341,
+          22.567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "S02",
+        "name": "Salt Lake Yuva Bharati Relief Camp",
+        "type": "SHELTER",
+        "elevation": 6.5,
+        "drainage_capacity": 35.0,
+        "capacity": 5000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.406,
+          22.5695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "S03",
+        "name": "Rabindra Sarobar Community Shelter",
+        "type": "SHELTER",
+        "elevation": 5.5,
+        "drainage_capacity": 25.0,
+        "capacity": 1500
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.356,
+          22.514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "S04",
+        "name": "Behala Indoor Relief Center",
+        "type": "SHELTER",
+        "elevation": 4.2,
+        "drainage_capacity": 15.0,
+        "capacity": 1200
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.321,
+          22.485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PW01",
+        "name": "CESC Central Power Substation",
+        "type": "POWER_STATION",
+        "elevation": 4.8,
+        "drainage_capacity": 20.0,
+        "capacity": 250
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.358,
+          22.562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PW02",
+        "name": "Salt Lake Sector V Grid Substation",
+        "type": "POWER_STATION",
+        "elevation": 6.3,
+        "drainage_capacity": 34.0,
+        "capacity": 180
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.431,
+          22.581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PW03",
+        "name": "Taratala Industrial Grid Node",
+        "type": "POWER_STATION",
+        "elevation": 3.6,
+        "drainage_capacity": 12.0,
+        "capacity": 150
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.312,
+          22.505
+        ]
+      }
+    }
+  ]
+}

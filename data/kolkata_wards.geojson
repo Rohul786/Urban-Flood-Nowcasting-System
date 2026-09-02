@@ -1,0 +1,837 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_id": "W-42",
+        "ward_name": "Ward 42 (Burrabazar / Central Basin)",
+        "elevation": 3.8,
+        "slope": 0.4,
+        "drainage_capacity": 12.0,
+        "impervious_surface": 94,
+        "historical_flood_frequency": 11,
+        "center_lat": 22.584,
+        "center_lon": 88.353,
+        "road_density": 19.3,
+        "soil_saturation": 0.75,
+        "tide_level_m": 2.8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.3662,
+              22.584
+            ],
+            [
+              88.3596,
+              22.59335
+            ],
+            [
+              88.3464,
+              22.59335
+            ],
+            [
+              88.3398,
+              22.584
+            ],
+            [
+              88.3464,
+              22.57465
+            ],
+            [
+              88.3596,
+              22.57465
+            ],
+            [
+              88.3662,
+              22.584
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_id": "W-45",
+        "ward_name": "Ward 45 (BBD Bagh / Secretariat)",
+        "elevation": 5.2,
+        "slope": 0.6,
+        "drainage_capacity": 24.0,
+        "impervious_surface": 88,
+        "historical_flood_frequency": 5,
+        "center_lat": 22.571,
+        "center_lon": 88.349,
+        "road_density": 19.2,
+        "soil_saturation": 0.75,
+        "tide_level_m": 2.8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.3633,
+              22.571
+            ],
+            [
+              88.35615,
+              22.58113
+            ],
+            [
+              88.34185,
+              22.58113
+            ],
+            [
+              88.3347,
+              22.571
+            ],
+            [
+              88.34185,
+              22.56087
+            ],
+            [
+              88.35615,
+              22.56087
+            ],
+            [
+              88.3633,
+              22.571
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_id": "W-63",
+        "ward_name": "Ward 63 (Park Street / Camac St)",
+        "elevation": 4.5,
+        "slope": 0.5,
+        "drainage_capacity": 18.0,
+        "impervious_surface": 90,
+        "historical_flood_frequency": 8,
+        "center_lat": 22.551,
+        "center_lon": 88.354,
+        "road_density": 16.1,
+        "soil_saturation": 0.75,
+        "tide_level_m": 2.8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.3672,
+              22.551
+            ],
+            [
+              88.3606,
+              22.56035
+            ],
+            [
+              88.3474,
+              22.56035
+            ],
+            [
+              88.3408,
+              22.551
+            ],
+            [
+              88.3474,
+              22.54165
+            ],
+            [
+              88.3606,
+              22.54165
+            ],
+            [
+              88.3672,
+              22.551
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_id": "W-69",
+        "ward_name": "Ward 69 (Ballygunge / Gariahat)",
+        "elevation": 5.8,
+        "slope": 0.8,
+        "drainage_capacity": 28.0,
+        "impervious_surface": 82,
+        "historical_flood_frequency": 4,
+        "center_lat": 22.528,
+        "center_lon": 88.368,
+        "road_density": 20.5,
+        "soil_saturation": 0.75,
+        "tide_level_m": 2.8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.3834,
+              22.528
+            ],
+            [
+              88.3757,
+              22.53891
+            ],
+            [
+              88.3603,
+              22.53891
+            ],
+            [
+              88.3526,
+              22.528
+            ],
+            [
+              88.3603,
+              22.51709
+            ],
+            [
+              88.3757,
+              22.51709
+            ],
+            [
+              88.3834,
+              22.528
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_id": "W-83",
+        "ward_name": "Ward 83 (Kalighat / Rashbehari)",
+        "elevation": 4.1,
+        "slope": 0.5,
+        "drainage_capacity": 15.0,
+        "impervious_surface": 89,
+        "historical_flood_frequency": 9,
+        "center_lat": 22.52,
+        "center_lon": 88.345,
+        "road_density": 21.3,
+        "soil_saturation": 0.75,
+        "tide_level_m": 2.8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.3593,
+              22.52
+            ],
+            [
+              88.35215,
+              22.53013
+            ],
+            [
+              88.33785,
+              22.53013
+            ],
+            [
+              88.3307,
+              22.52
+            ],
+            [
+              88.33785,
+              22.50987
+            ],
+            [
+              88.35215,
+              22.50987
+            ],
+            [
+              88.3593,
+              22.52
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_id": "W-88",
+        "ward_name": "Ward 88 (Alipore / Chetla)",
+        "elevation": 6.8,
+        "slope": 1.2,
+        "drainage_capacity": 32.0,
+        "impervious_surface": 70,
+        "historical_flood_frequency": 3,
+        "center_lat": 22.532,
+        "center_lon": 88.332,
+        "road_density": 16.5,
+        "soil_saturation": 0.75,
+        "tide_level_m": 2.8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.3485,
+              22.532
+            ],
+            [
+              88.34025,
+              22.54369
+            ],
+            [
+              88.32375,
+              22.54369
+            ],
+            [
+              88.3155,
+              22.532
+            ],
+            [
+              88.32375,
+              22.52031
+            ],
+            [
+              88.34025,
+              22.52031
+            ],
+            [
+              88.3485,
+              22.532
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_id": "W-89",
+        "ward_name": "Ward 89 (Tollygunge / Circular Canal)",
+        "elevation": 3.9,
+        "slope": 0.4,
+        "drainage_capacity": 14.0,
+        "impervious_surface": 85,
+        "historical_flood_frequency": 10,
+        "center_lat": 22.502,
+        "center_lon": 88.344,
+        "road_density": 14.1,
+        "soil_saturation": 0.75,
+        "tide_level_m": 2.8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.3594,
+              22.502
+            ],
+            [
+              88.3517,
+              22.51291
+            ],
+            [
+              88.3363,
+              22.51291
+            ],
+            [
+              88.3286,
+              22.502
+            ],
+            [
+              88.3363,
+              22.49109
+            ],
+            [
+              88.3517,
+              22.49109
+            ],
+            [
+              88.3594,
+              22.502
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_id": "W-93",
+        "ward_name": "Ward 93 (Jadavpur / Prince Anwar)",
+        "elevation": 5.5,
+        "slope": 0.7,
+        "drainage_capacity": 22.0,
+        "impervious_surface": 80,
+        "historical_flood_frequency": 6,
+        "center_lat": 22.498,
+        "center_lon": 88.369,
+        "road_density": 21.2,
+        "soil_saturation": 0.75,
+        "tide_level_m": 2.8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.3855,
+              22.498
+            ],
+            [
+              88.37725,
+              22.50969
+            ],
+            [
+              88.36075,
+              22.50969
+            ],
+            [
+              88.3525,
+              22.498
+            ],
+            [
+              88.36075,
+              22.48631
+            ],
+            [
+              88.37725,
+              22.48631
+            ],
+            [
+              88.3855,
+              22.498
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_id": "W-101",
+        "ward_name": "Ward 101 (EM Bypass / Ruby Hub)",
+        "elevation": 6.2,
+        "slope": 1.0,
+        "drainage_capacity": 34.0,
+        "impervious_surface": 70,
+        "historical_flood_frequency": 3,
+        "center_lat": 22.513,
+        "center_lon": 88.399,
+        "road_density": 21.4,
+        "soil_saturation": 0.75,
+        "tide_level_m": 2.8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.4166,
+              22.513
+            ],
+            [
+              88.4078,
+              22.52547
+            ],
+            [
+              88.3902,
+              22.52547
+            ],
+            [
+              88.3814,
+              22.513
+            ],
+            [
+              88.3902,
+              22.50053
+            ],
+            [
+              88.4078,
+              22.50053
+            ],
+            [
+              88.4166,
+              22.513
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_id": "W-108",
+        "ward_name": "Ward 108 (Kasba / Anandapur)",
+        "elevation": 5.8,
+        "slope": 0.8,
+        "drainage_capacity": 30.0,
+        "impervious_surface": 74,
+        "historical_flood_frequency": 4,
+        "center_lat": 22.526,
+        "center_lon": 88.404,
+        "road_density": 14.4,
+        "soil_saturation": 0.75,
+        "tide_level_m": 2.8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.4205,
+              22.526
+            ],
+            [
+              88.41225,
+              22.53769
+            ],
+            [
+              88.39575,
+              22.53769
+            ],
+            [
+              88.3875,
+              22.526
+            ],
+            [
+              88.39575,
+              22.51431
+            ],
+            [
+              88.41225,
+              22.51431
+            ],
+            [
+              88.4205,
+              22.526
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_id": "W-115",
+        "ward_name": "Ward 115 (Behala Chowrasta)",
+        "elevation": 3.4,
+        "slope": 0.3,
+        "drainage_capacity": 10.0,
+        "impervious_surface": 92,
+        "historical_flood_frequency": 14,
+        "center_lat": 22.489,
+        "center_lon": 88.318,
+        "road_density": 14.0,
+        "soil_saturation": 0.75,
+        "tide_level_m": 2.8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.3356,
+              22.489
+            ],
+            [
+              88.3268,
+              22.50147
+            ],
+            [
+              88.3092,
+              22.50147
+            ],
+            [
+              88.3004,
+              22.489
+            ],
+            [
+              88.3092,
+              22.47653
+            ],
+            [
+              88.3268,
+              22.47653
+            ],
+            [
+              88.3356,
+              22.489
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_id": "W-122",
+        "ward_name": "Ward 122 (Taratala / Hyde Road)",
+        "elevation": 3.7,
+        "slope": 0.4,
+        "drainage_capacity": 13.0,
+        "impervious_surface": 91,
+        "historical_flood_frequency": 12,
+        "center_lat": 22.508,
+        "center_lon": 88.309,
+        "road_density": 20.5,
+        "soil_saturation": 0.75,
+        "tide_level_m": 2.8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.3255,
+              22.508
+            ],
+            [
+              88.31725,
+              22.51969
+            ],
+            [
+              88.30075,
+              22.51969
+            ],
+            [
+              88.2925,
+              22.508
+            ],
+            [
+              88.30075,
+              22.49631
+            ],
+            [
+              88.31725,
+              22.49631
+            ],
+            [
+              88.3255,
+              22.508
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_id": "W-130",
+        "ward_name": "Ward 130 (Salt Lake Sector V)",
+        "elevation": 6.9,
+        "slope": 1.2,
+        "drainage_capacity": 38.0,
+        "impervious_surface": 68,
+        "historical_flood_frequency": 2,
+        "center_lat": 22.576,
+        "center_lon": 88.432,
+        "road_density": 16.4,
+        "soil_saturation": 0.75,
+        "tide_level_m": 2.8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.4496,
+              22.576
+            ],
+            [
+              88.4408,
+              22.58847
+            ],
+            [
+              88.4232,
+              22.58847
+            ],
+            [
+              88.4144,
+              22.576
+            ],
+            [
+              88.4232,
+              22.56353
+            ],
+            [
+              88.4408,
+              22.56353
+            ],
+            [
+              88.4496,
+              22.576
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_id": "W-135",
+        "ward_name": "Ward 135 (New Town Action Area I)",
+        "elevation": 7.4,
+        "slope": 1.4,
+        "drainage_capacity": 42.0,
+        "impervious_surface": 62,
+        "historical_flood_frequency": 1,
+        "center_lat": 22.592,
+        "center_lon": 88.468,
+        "road_density": 21.3,
+        "soil_saturation": 0.75,
+        "tide_level_m": 2.8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.4878,
+              22.592
+            ],
+            [
+              88.4779,
+              22.60603
+            ],
+            [
+              88.4581,
+              22.60603
+            ],
+            [
+              88.4482,
+              22.592
+            ],
+            [
+              88.4581,
+              22.57797
+            ],
+            [
+              88.4779,
+              22.57797
+            ],
+            [
+              88.4878,
+              22.592
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_id": "W-142",
+        "ward_name": "Ward 142 (Howrah Bank / Station)",
+        "elevation": 4.3,
+        "slope": 0.5,
+        "drainage_capacity": 19.0,
+        "impervious_surface": 89,
+        "historical_flood_frequency": 8,
+        "center_lat": 22.585,
+        "center_lon": 88.339,
+        "road_density": 15.7,
+        "soil_saturation": 0.75,
+        "tide_level_m": 2.8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.3544,
+              22.585
+            ],
+            [
+              88.3467,
+              22.59591
+            ],
+            [
+              88.3313,
+              22.59591
+            ],
+            [
+              88.3236,
+              22.585
+            ],
+            [
+              88.3313,
+              22.57409
+            ],
+            [
+              88.3467,
+              22.57409
+            ],
+            [
+              88.3544,
+              22.585
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_id": "W-144",
+        "ward_name": "Ward 144 (Amherst St / Sealdah)",
+        "elevation": 3.6,
+        "slope": 0.3,
+        "drainage_capacity": 11.0,
+        "impervious_surface": 93,
+        "historical_flood_frequency": 13,
+        "center_lat": 22.569,
+        "center_lon": 88.371,
+        "road_density": 20.9,
+        "soil_saturation": 0.75,
+        "tide_level_m": 2.8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.3853,
+              22.569
+            ],
+            [
+              88.37815,
+              22.57913
+            ],
+            [
+              88.36385,
+              22.57913
+            ],
+            [
+              88.3567,
+              22.569
+            ],
+            [
+              88.36385,
+              22.55887
+            ],
+            [
+              88.37815,
+              22.55887
+            ],
+            [
+              88.3853,
+              22.569
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
